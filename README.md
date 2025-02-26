@@ -1,4 +1,4 @@
-# principles_of_data_analytics
+# Principles Of Data Analytics
 
 # By Danielle Araújo
 
